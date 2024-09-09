@@ -1,3 +1,9 @@
+# MIT License
+#
+# Copyright (c) 2024 Joel Bierman, Guorui Zhu, Jianfeng Lu, Yingzhou Li
+#
+# This file is licensed under the MIT License. See the LICENSE file for more details.
+
 from __future__ import annotations
 
 from collections.abc import Callable, Sequence, Iterable
