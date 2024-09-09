@@ -8,6 +8,10 @@
 from OMM.qOMM import func
 ```
 
+### This code is the new version of `OMM/` from `Lu-Group-Quantum_Computing-Projects.git` which is now available to work in qiskit==1.1.0. You can find the old version of `OMM/` in:
+
+https://github.com/JoelHBierman/Lu-Group-Quantum_Computing-Projects.git
+
 # Installation Instruction
 
 ```
@@ -21,3 +25,4 @@ python test_script.py
 ```
 pip install git+https://github.com/renlililoli/OMM.git
 ```
+
